@@ -22,5 +22,5 @@ These are languages I work with in my projects (so far):
   <img align="left" alt="React" height="28px" style="padding-right: 12px;" src="assets/react-logo.png" />
   <img align="left" alt="HTML" height="28px" style="padding-right: 12px;" src="assets/html-logo.png" />
   <img align="left" alt="CSS" height="28px" style="padding-right: 12px;" src="assets/css-logo.png" />
-<img align="left" alt="Tailwind CSS" width="28px" style="padding-right: 12px;" src="assets/tailwind-css-logo.png" />
+  <img align="left" alt="Tailwind CSS" width="28px" style="padding-right: 12px;" src="assets/tailwind-css-logo.png" />
 </div>
